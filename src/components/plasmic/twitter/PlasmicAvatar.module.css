@@ -1,0 +1,12 @@
+.root {
+  display: flex;
+  position: relative;
+}
+.img__dl0Nv {
+  object-fit: cover;
+  width: 49px;
+  height: 49px;
+  position: relative;
+  flex-shrink: 0;
+  border-radius: 50%;
+}

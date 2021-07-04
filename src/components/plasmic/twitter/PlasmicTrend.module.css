@@ -1,0 +1,70 @@
+.root {
+  display: inline-flex;
+  width: auto;
+  height: auto;
+  flex-direction: column;
+  position: relative;
+  padding: 10px 15px;
+  border-top: 1px solid rgb(204, 214, 221) /* plasmic-token: xIuOd2cSwD1jn */;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  margin-top: calc(0px - 4px);
+  height: calc(100% + 4px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 4px;
+}
+.box__d4B7I {
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  left: auto;
+  top: auto;
+}
+.box__d4B7I > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.box__d4B7I > :global(.__wab_flex-container) > *,
+.box__d4B7I > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 8px;
+}
+.slotSlot {
+  font-size: 12px;
+  color: rgb(101, 119, 134) /* plasmic-token: 30W7NguAeTBwV */;
+}
+.box__aCk5H {
+  position: relative;
+  left: auto;
+  top: auto;
+  color: rgb(101, 119, 134) /* plasmic-token: 30W7NguAeTBwV */;
+  font-size: 12px;
+}
+.box___7SsHq {
+  position: relative;
+  left: auto;
+  top: auto;
+  font-size: 12px;
+  color: rgb(101, 119, 134) /* plasmic-token: 30W7NguAeTBwV */;
+}
+.box__zcCvN {
+  position: relative;
+  left: auto;
+  top: auto;
+  display: flex;
+  flex-direction: row;
+}
+.box__weVVi {
+  display: flex;
+  position: relative;
+}
+.slotChildren {
+  font-weight: 700;
+}
